@@ -3,8 +3,6 @@
 ---
 
 ## Paticipants
-<<<<<<< HEAD
-
 =======
 Muhammed Ajmal M,
 John
